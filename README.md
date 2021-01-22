@@ -1,8 +1,6 @@
 # Autenticador de doble factor (2FA)
 
 [![GitHub license](https://img.shields.io/github/license/NewRisus/GoogleAuthenticator?style=flat-square)](https://github.com/NewRisus/GoogleAuthenticator/blob/main/LICENSE)
-[![GitHub forks](https://img.shields.io/github/forks/NewRisus/GoogleAuthenticator?style=flat-square)](https://github.com/NewRisus/GoogleAuthenticator/network)
-[![GitHub stars](https://img.shields.io/github/stars/NewRisus/GoogleAuthenticator?style=flat-square)](https://github.com/NewRisus/GoogleAuthenticator/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/NewRisus/GoogleAuthenticator?style=flat-square)](https://github.com/NewRisus/GoogleAuthenticator/issues)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/NewRisus/GoogleAuthenticator?label=Peso%20total&style=flat-square)
 
