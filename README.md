@@ -3,6 +3,10 @@
 [![GitHub license](https://img.shields.io/github/license/NewRisus/GoogleAuthenticator?style=flat-square)](https://github.com/NewRisus/GoogleAuthenticator/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/NewRisus/GoogleAuthenticator?style=flat-square)](https://github.com/NewRisus/GoogleAuthenticator/issues)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/NewRisus/GoogleAuthenticator?label=Peso%20total&style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/NewRisus/GoogleAuthenticator?label=Leguajes&style=flat-square)
+
+![Discord](https://img.shields.io/discord/631217084411543582?label=Servidor%20Discord&style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/NewRisus/GoogleAuthenticator/total?label=Descargas&style=flat-square)
 
 > Estos son los pasos para instalarlo, descargan la carpeta y la suben a inc/ext/
 
